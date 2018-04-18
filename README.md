@@ -15,3 +15,6 @@ Discussed:
 9. git checkout
 10. git branch --set-upstream-to=origin/master
 11. git fetch
+
+Questions:
+1. Difference between `git fetch` and `git pull`
