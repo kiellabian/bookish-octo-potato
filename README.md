@@ -11,3 +11,6 @@ Discussed:
 5. git add
 6. git commit [-m]
 7. git push
+8. git diff
+9. git checkout
+
