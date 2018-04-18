@@ -11,3 +11,5 @@ Discussed:
 5. git add
 6. git commit [-m]
 7. git push
+8. git branch --set-upstream-to=origin/master
+9. git fetch
