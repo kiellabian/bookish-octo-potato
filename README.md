@@ -14,3 +14,6 @@ Discussed:
 8. git diff
 9. git checkout
 
+Questions:
+1. Difference between `git fetch` and `git pull`
+
